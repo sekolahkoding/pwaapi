@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Otter, small-clawed","category":"Orange"},
+{"id":2,"name":"Arctic hare","category":"Aquamarine"},
+{"id":3,"name":"Lemur, ring-tailed","category":"Violet"},
+{"id":4,"name":"American Virginia opossum","category":"Purple"},
+{"id":5,"name":"Deer, roe","category":"Mauv"},
+{"id":6,"name":"Silver gull","category":"Orange"},
+{"id":7,"name":"Stork, painted","category":"Orange"},
+{"id":8,"name":"Francolin, swainson's","category":"Goldenrod"},
+{"id":9,"name":"Four-spotted skimmer","category":"Aquamarine"},
+{"id":10,"name":"Southern white-crowned shrike","category":"Violet"},
+{"id":11,"name":"Black-crowned night heron","category":"Puce"},
+{"id":12,"name":"Partridge, coqui","category":"Green"},
+{"id":13,"name":"Dusky rattlesnake","category":"Mauv"},
+{"id":14,"name":"Fox, north american red","category":"Yellow"},
+{"id":15,"name":"Squirrel, malabar","category":"Teal"},
+{"id":16,"name":"African jacana","category":"Yellow"},
+{"id":17,"name":"Wattled crane","category":"Crimson"},
+{"id":18,"name":"Cat, long-tailed spotted","category":"Puce"},
+{"id":19,"name":"Tapir, brazilian","category":"Crimson"},
+{"id":20,"name":"European red squirrel","category":"Indigo"}
+]
+}
